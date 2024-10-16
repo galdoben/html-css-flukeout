@@ -1,0 +1,11 @@
+body{
+    background-color: aquamarine;
+}
+t1{
+    margin: 0 auto;
+    text-align: middle;
+    padding: 10px;
+    color: aliceblue;
+    font-style:inherit;
+    background-color: blueviolet;
+}
